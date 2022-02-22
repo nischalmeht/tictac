@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nischalmeht/tictac.git/static/css/main.dae21d3d.css",
+    "main.js": "/nischalmeht/tictac.git/static/js/main.c3db170c.js",
+    "static/js/787.818a4939.chunk.js": "/nischalmeht/tictac.git/static/js/787.818a4939.chunk.js",
+    "index.html": "/nischalmeht/tictac.git/index.html",
+    "main.dae21d3d.css.map": "/nischalmeht/tictac.git/static/css/main.dae21d3d.css.map",
+    "main.c3db170c.js.map": "/nischalmeht/tictac.git/static/js/main.c3db170c.js.map",
+    "787.818a4939.chunk.js.map": "/nischalmeht/tictac.git/static/js/787.818a4939.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae21d3d.css",
+    "static/js/main.c3db170c.js"
+  ]
+}
